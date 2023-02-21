@@ -1,1 +1,1 @@
-# clock
+# clock based on your timezone
